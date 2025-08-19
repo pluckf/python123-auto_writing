@@ -1,0 +1,32 @@
+{
+  "course_ids": {
+    "2023春季python语言程序设计（31班）": 8717,
+    "2023春python语言程序设计期末考试": 9254
+  },
+  "group_ids": {
+    "Group_1": 123769,
+    "Group_2": 123770,
+    "Group_3": 123886,
+    "Group_4": 125033,
+    "Group_5": 125034,
+    "Group_6": 125035,
+    "Group_7": 125036,
+    "Group_8": 125037,
+    "Group_9": 123889,
+    "Group_10": 125704,
+    "Group_11": 114928,
+    "Group_12": 114929,
+    "Group_13": 114930,
+    "Group_14": 114931,
+    "Group_15": 114932,
+    "Group_16": 114933,
+    "Group_17": 114934,
+    "Group_18": 114935,
+    "Group_19": 114936,
+    "Group_20": 114937,
+    "Group_21": 114938,
+    "Group_22": 121959
+  },
+  "timestamp": "2025-08-18",
+  "api_url": "https://python123.io/api/v1/student/courses"
+}
