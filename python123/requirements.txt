@@ -1,0 +1,28 @@
+# Python123.io 测试工具项目依赖包
+# 生成时间: 2025-08-18
+
+# HTTP 请求库 - 核心依赖
+requests==2.31.0
+
+# SSL/HTTPS 处理  
+urllib3==2.1.0
+
+# GUI 界面库 (tkinter 通常是Python标准库的一部分，但在某些环境下可能需要单独安装)
+# tkinter - 标准库，通常不需要安装
+
+# 标准库 (以下库通常不需要单独安装，已包含在Python标准库中):
+# json - 标准库
+# re - 标准库  
+# time - 标准库
+# datetime - 标准库
+# os - 标准库
+# sys - 标准库
+# subprocess - 标准库
+# threading - 标准库
+# queue - 标准库
+# glob - 标准库
+
+# 如果运行环境缺少tkinter (例如某些Linux发行版)，可能需要:
+# 在Ubuntu/Debian: sudo apt-get install python3-tk
+# 在CentOS/RHEL: sudo yum install tkinter
+# 在macOS: 通常已包含在Python安装中
